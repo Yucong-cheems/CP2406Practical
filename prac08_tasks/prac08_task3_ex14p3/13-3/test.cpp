@@ -1,6 +1,8 @@
-import person;
+module;
+#include <iostream>
+export module Database;
+import Database;
 import person_database;
-import <iostream>;
 
 using namespace std;
 

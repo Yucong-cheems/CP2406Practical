@@ -1,4 +1,4 @@
-module person_database;
+export module Database;
 
 #include <iostream>
 #include <fstream>
